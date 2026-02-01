@@ -1,5 +1,4 @@
 
-
 ## Featured Enterprise Case Studies (Regulated Environments)
 
 This repository includes real-world enterprise case studies demonstrating governance-first cloud operations:
