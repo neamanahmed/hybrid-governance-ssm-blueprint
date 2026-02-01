@@ -21,10 +21,6 @@ An internal organizational audit identified a major compliance issue:
 - Source code was being stored or processed in a cloud environment
 - Corporate policy required source code to remain within the organization’s premises
 
-From the document:
-
-> “Organizational internal audit discovered that the source code is being saved on cloud…”  
-(Compliance Audit and Security Jenkins + AWS CodeDeploy.pdf)
 
 This created immediate risk:
 
@@ -99,3 +95,4 @@ This case study highlights capability in:
 - Audit-driven engineering remediation
 - Secure enterprise CI/CD architecture
 - Banking-grade governance mindset
+
