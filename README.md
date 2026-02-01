@@ -1,4 +1,6 @@
+## Hybrid Governance Architecture
 
+![Hybrid SSM Control Plane](./diagrams/hybrid-ssm-control-plane.png)
 ## Featured Enterprise Case Studies (Regulated Environments)
 
 This repository includes real-world enterprise case studies demonstrating governance-first cloud operations:
